@@ -69,41 +69,59 @@ Once the user selects the appropriate book, the system returns recommendations b
 ### 📚 Recommendations for: `Treasure`
 
 
-================================================================================ 📚 Similarity: 0.9893
-Title: The Left Hand Dreams of Him
-Authors: Satoru Kannagi
-Published Year: 2006
-Number of Pages: 242
-Category: Comics & Graphic Novels
-Description: The growing romance between high school students Yuichi and Wataru is endangered by scholastic stress and well-meant deceptions....
-📚 Similarity: 0.9573
-Title: The Mouse and His Child
-Authors: Russell Hoban; David Small
-Published Year: 2001
-Number of Pages: 244
-Category: Juvenile Fiction
-Description: Two discarded toy mice survive perilous adventures in a hostile world before finding security and happiness with old friends and new....
-📚 Similarity: 0.9566
-Title: Pippi Goes on Board
-Authors: Astrid Lindgren; Louis S. Glanzman
-Published Year: 1977
-Number of Pages: 140
-Category: Juvenile Fiction
-Description: The further adventures of Pippi and her friends Tommy and Annika....
-📚 Similarity: 0.9562
-Title: The Far Side of Evil
-Authors: Sylvia Engdahl
-Published Year: 2005
-Number of Pages: 324
-Category: Juvenile Fiction
-Description: A young girl from an advanced civilization is sent as an observer to a planet whose people have not yet learned to control their use of atomic power....
-📚 Similarity: 0.9494
-Title: The Pizza Monster
-Authors: Marjorie Weinman Sharmat; Mitchell Sharmat
-Published Year: 2005
-Number of Pages: 80
-Category: Juvenile Fiction
-Description: Wealthy secret agent Olivia Sharp helps depressed Duncan find a friend....
+================================================================================ ### 📚 Recommendations for: `Treasure`
+
+---
+
+**📚 Similarity:** `0.9893`  
+**Title:** *The Left Hand Dreams of Him*  
+**Authors:** Satoru Kannagi  
+**Published Year:** 2006  
+**Number of Pages:** 242  
+**Category:** Comics & Graphic Novels  
+**Description:** The growing romance between high school students Yuichi and Wataru is endangered by scholastic stress and well-meant deceptions....
+
+---
+
+**📚 Similarity:** `0.9573`  
+**Title:** *The Mouse and His Child*  
+**Authors:** Russell Hoban; David Small  
+**Published Year:** 2001  
+**Number of Pages:** 244  
+**Category:** Juvenile Fiction  
+**Description:** Two discarded toy mice survive perilous adventures in a hostile world before finding security and happiness with old friends and new....
+
+---
+
+**📚 Similarity:** `0.9566`  
+**Title:** *Pippi Goes on Board*  
+**Authors:** Astrid Lindgren; Louis S. Glanzman  
+**Published Year:** 1977  
+**Number of Pages:** 140  
+**Category:** Juvenile Fiction  
+**Description:** The further adventures of Pippi and her friends Tommy and Annika....
+
+---
+
+**📚 Similarity:** `0.9562`  
+**Title:** *The Far Side of Evil*  
+**Authors:** Sylvia Engdahl  
+**Published Year:** 2005  
+**Number of Pages:** 324  
+**Category:** Juvenile Fiction  
+**Description:** A young girl from an advanced civilization is sent as an observer to a planet whose people have not yet learned to control their use of atomic power....
+
+---
+
+**📚 Similarity:** `0.9494`  
+**Title:** *The Pizza Monster*  
+**Authors:** Marjorie Weinman Sharmat; Mitchell Sharmat  
+**Published Year:** 2005  
+**Number of Pages:** 80  
+**Category:** Juvenile Fiction  
+**Description:** Wealthy secret agent Olivia Sharp helps depressed Duncan find a friend....
+
+---
 
 
 ## 📈 Future Improvements
