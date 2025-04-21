@@ -66,10 +66,8 @@ Once the user selects the appropriate book, the system returns recommendations b
 
 ---
 
+================================================================================ 
 ### 📚 Recommendations for: `Treasure`
-
-
-================================================================================ ### 📚 Recommendations for: `Treasure`
 
 ---
 
